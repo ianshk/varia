@@ -1,4 +1,4 @@
-## Create a headless design system using React Aria, Tailwind CSS, and Class Variance Authority for variants.
+## Create a headless design system using React Aria, Tailwind CSS, and cva for variants.
 
 # Problem
 
